@@ -40,12 +40,7 @@ Se han implementado 6 conjuntos de pruebas unitarias de caja blanca:
 
 2. Ejecutar todas las pruebas:
    ```
-   npm test
-   ```
-
-3. Ejecutar solo las pruebas de caja blanca:
-   ```
-   npx jest calculadora.test.js
+   npm run test:caja-blanca
    ```
 
 
